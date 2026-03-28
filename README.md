@@ -6,8 +6,6 @@ Any idea how/were to hide controls
 
 > **A premium, futuristic digital marketplace featuring cinematic animations and a seamless user experience.** 🚀
 >
-> https://piyushkadam96k.github.io/NFT-Marketplace-Exchange-Everything
-
 ---
 
 ## ✨ Overview
@@ -41,7 +39,7 @@ This project is built using modern web technologies:
 **Amit Kadam**
 
 *   🐙 **GitHub:** [@amitkadam96k](https://github.com/piyushkadam96k)
-*   📷 **Instagram:** [@piyush_kadam96k](https://www.instagram.com/piyush_kadam96k/)
+*   📷 **Instagram:** [@piyush_kadam96k](https://nothing-dot-exe.github.io/instagram-deleted-/)
 
 ---
 
