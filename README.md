@@ -31,21 +31,7 @@ This project is built using modern web technologies:
 *   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** - Interactive logic and DOM manipulation.
 *   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) **Tailwind CSS** - Utility-first styling.
 *   ![Anime.js](https://img.shields.io/badge/Anime.js-FA5252?style=flat-square&logo=animejs&logoColor=white) **Anime.js** - Smooth animations.
-
----
-
-## 👤 Author
-
-**Amit Kadam**
-
-*   🐙 **GitHub:** [@amitkadam96k](https://github.com/piyushkadam96k)
-*   📷 **Instagram:** [@piyush_kadam96k](https://nothing-dot-exe.github.io/instagram-deleted-/)
-
----
-
-<div align="center">
-  <sub>Built with ❤️ by Amit Kadam. Exchange Everything</sub>
-</div>
+
 
 
 
